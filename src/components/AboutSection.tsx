@@ -66,7 +66,7 @@ const AboutSection = () => {
 
             <p className="text-muted-foreground leading-relaxed text-sm">
             As a Java developer with a strong interest in backend and cloud, 
-            I’m driven by building the invisible systems that keep our digital world running. 
+            I’m passionate about building the invisible systems that keep our digital world running. 
             For me, programming is more than just writing code, it’s about creating solutions 
             that genuinely make everyday life easier, whether it’s ordering food, purchasing medicine, 
             or handling payments. I’ve always had a strong interest in technology, and I love the moment 
