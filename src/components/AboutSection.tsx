@@ -60,31 +60,29 @@ const AboutSection = () => {
             className="space-y-6 max-w-xl"
           >
             <p className="text-lg leading-relaxed">
-            I’m currently studying Java development with a focus 
-            on backend and cloud technologies at Jensen Yrkeshögskola, graduating in May 2027.
+              Java developer with a focus
+              on backend and cloud technologies at Jensen Yrkeshögskola, graduating in May 2027.
             </p>
 
             <p className="text-muted-foreground leading-relaxed text-sm">
-            As a Java developer with a strong interest in backend and cloud, 
-            I’m passionate about building the invisible systems that keep our digital world running. 
-            For me, programming is more than just writing code, it’s about creating solutions 
-            that genuinely make everyday life easier, whether it’s ordering food, purchasing medicine, 
-            or handling payments. I’ve always had a strong interest in technology, and I love the moment 
-            when everything finally clicks after working through a challenging problem.
+            </p>
+            I'm a Java developer with a strong interest in backend development and cloud technologies, 
+            focused on building systems that work behind the scenes and make digital services run smoothly.
+            For me, programming is not just about writing code, but about solving problems and creating solutions that people can actually use. 
+            I like building reliable systems that support everyday applications and make things easier for users.
+            I’ve always been interested in technology, and I really enjoy the process of figuring things out, especially when a difficult problem finally makes sense.
+            <p className="text-muted-foreground leading-relaxed text-sm">
+              Much like experimenting with a new recipe in the kitchen,
+              I’ve learned that great results require both patience and precision.
+              I see my upcoming internship as an opportunity to step into a real-world environment,
+              contribute to a team, and gain hands-on experience in building meaningful solutions.
+              For me, a positive team culture is just as important as the technical work.
+              I’m looking for a place where people collaborate, solve problems together, and genuinely enjoy what they do.
             </p>
 
             <p className="text-muted-foreground leading-relaxed text-sm">
-            Much like experimenting with a new recipe in the kitchen, 
-            I’ve learned that great results require both patience and precision. 
-            I see my upcoming internship as an opportunity to step into a real-world environment, 
-            contribute to a team, and gain hands-on experience in building meaningful solutions. 
-            For me, a positive team culture is just as important as the technical work.
-            I’m looking for a place where people collaborate, solve problems together, and genuinely enjoy what they do.
+              Outside of coding, I recharge by spending time in nature, baking, or being with family and friends.
             </p>
-
-            <p className="text-muted-foreground leading-relaxed text-sm">
-            Outside of coding, I recharge by spending time in nature, traveling, or being with family and friends.
-              </p>
 
             {/* Tags */}
             <div className="flex flex-wrap gap-4 pt-4">
