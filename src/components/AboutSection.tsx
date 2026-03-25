@@ -65,12 +65,13 @@ const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground leading-relaxed text-sm">
-            </p>
+            
             I'm a Java developer with a strong interest in backend development and cloud technologies, 
             focused on building systems that work behind the scenes and make digital services run smoothly.
             For me, programming is not just about writing code, but about solving problems and creating solutions that people can actually use. 
             I like building reliable systems that support everyday applications and make things easier for users.
             I’ve always been interested in technology, and I really enjoy the process of figuring things out, especially when a difficult problem finally makes sense.
+            </p>
             <p className="text-muted-foreground leading-relaxed text-sm">
               Much like experimenting with a new recipe in the kitchen,
               I’ve learned that great results require both patience and precision.
