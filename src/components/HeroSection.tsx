@@ -47,7 +47,7 @@ const HeroSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2 }}
           className="text-white/90 text-lg md:text-xl font-medium tracking-wider mt-4"        >
-          Java Developer Student · Backend & Cloud
+          Java Developer Student ・ Backend & Cloud
         </motion.p>
 
         {/* Internship line */}
@@ -57,7 +57,7 @@ const HeroSection = () => {
           transition={{ delay: 0.4 }}
           className="text-white/90 text-sm md:text-base mt-3 tracking-wide uppercase"
         >
-          Looking for an internship starting October 2026
+          Next step: Internship - October 2026 
         </motion.p>
 
 
