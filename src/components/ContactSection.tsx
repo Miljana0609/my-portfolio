@@ -86,7 +86,7 @@ const ContactSection = () => {
 
 {/* SWEDISH CV */}
 <a
-  href="/Miljana_Zoranovic_CV_SE.pdf"
+  href="/Miljana_Zoranovic_CV.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl border border-border hover:bg-[#7a8f7c] hover:text-white transition-all duration-300"
